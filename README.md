@@ -1,4 +1,5 @@
 # INF560_hw2
+[![DOI](https://zenodo.org/badge/297318397.svg)](https://zenodo.org/badge/latestdoi/297318397)
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
