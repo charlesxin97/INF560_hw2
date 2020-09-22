@@ -3,6 +3,7 @@ import json
 
 x = np.random.rand(1000)
 x = x * 100
+print(x)
 rs = {'result': x.tolist()}
 
 with open('output1.json', 'w+') as output_file:
