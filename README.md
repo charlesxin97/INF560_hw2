@@ -1,4 +1,4 @@
-# INF560_hw2
+# INF560_hw2/ Random number generator
 
 [![DOI](https://zenodo.org/badge/297318397.svg)](https://zenodo.org/badge/latestdoi/297318397)
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
