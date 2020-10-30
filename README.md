@@ -20,7 +20,19 @@ This repository is for INF560 hw2, it contains the scripts for:
 2.Take the random numbers and transform them using an equation of y = 3x +6.  
 3.Visualization of the points.  
 
-## Instructions for creating virtual environment
+## Screen shots  
+![image](/images_readme/1.png)  
+![image](/images_readme/2.png)  
+
+## Comparison of the dependencies  
+Extracted:  
+![image](/images_readme/3.png)  
+Installed:  
+Numpy == 1.19.3  
+Matplotlib == 3.3.2  
+
+
+## Instructions for creating virtual environment  
 
 Firstly, install the package.  
   
