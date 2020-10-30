@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/297318397.svg)](https://zenodo.org/badge/latestdoi/297318397)  
 [![CC BY 4.0][cc-by-shield]][cc-by]  
+
+This repository contains a python notebook runnable in mybinder:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/charlesxin97/INF560_hw2_random_number_generator/master?filepath=HW2.ipynb)  
 
 This work is licensed under a
@@ -17,3 +19,5 @@ This repository is for INF560 hw2, it contains the scripts for:
 1.Generation of 1000 random numbers in the range of 0-1000.  
 2.Take the random numbers and transform them using an equation of y = 3x +6.  
 3.Visualization of the points.  
+
+## Instructions for creating virtual environment
