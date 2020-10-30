@@ -13,7 +13,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-This repository is for INF560 hw2, it contains the scripts for 
-1.Generation of 1000 random numbers in the range of 0-1000 
-2.Take the random numbers and transform them using an equation of y = 3x +6
-3.Visualization of the points.
+This repository is for INF560 hw2, it contains the scripts for:   
+1.Generation of 1000 random numbers in the range of 0-1000.  
+2.Take the random numbers and transform them using an equation of y = 3x +6.  
+3.Visualization of the points.  
