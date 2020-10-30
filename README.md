@@ -21,3 +21,25 @@ This repository is for INF560 hw2, it contains the scripts for:
 3.Visualization of the points.  
 
 ## Instructions for creating virtual environment
+
+Firstly, install the package.  
+  
+```
+pip install virtualenv  
+```
+  
+Secondly, create the virtual environment in the repository  
+  
+``` 
+python3 -m venv dsdi560H4  
+```  
+  
+Thirdly, source the activate and activate the virtual environment
+
+``` 
+source ./dsdi560H4/bin/activate 
+. ./dsdi560H4/bin/activate  
+```
+
+Then you are in the virtual environment and start to install the packages in this virtual environment.  
+  
